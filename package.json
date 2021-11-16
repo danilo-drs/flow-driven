@@ -1,0 +1,22 @@
+{
+  "name": "@danilo-drs/flow-driven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilo-drs/flow-driven.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilo-drs/flow-driven/issues"
+  },
+  "homepage": "https://github.com/danilo-drs/flow-driven#readme",
+  "publishConfig": {
+    "@DANILO-DRS:registry": "https://npm.pkg.github.com"
+  }
+}
